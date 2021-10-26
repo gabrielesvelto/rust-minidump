@@ -11,3 +11,6 @@ exclude = [
     "scripts/*",
     "testdata/*",
 ]
+[profile.release]
+lto = true
+codegen-units = 1
