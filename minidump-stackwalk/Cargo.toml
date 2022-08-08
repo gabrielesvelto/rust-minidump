@@ -31,6 +31,6 @@ version = "0.10"
 optional = true
 
 [dev-dependencies]
-insta = "1.13.0"
+insta = "1.17.2"
 synth-minidump = { version = "0.10.0", path = "../synth-minidump" }
 test-assembler = "0.1.6"
