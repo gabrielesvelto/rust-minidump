@@ -20,7 +20,7 @@ breakpad-syms = ["breakpad-symbols"]
 symbolic-syms = []
 
 [dependencies]
-async-trait = "0.1.51"
+async-trait = "0.1.63"
 breakpad-symbols = { version = "0.10.0", path = "../breakpad-symbols", optional = true }
 debugid = "0.7.3"
 log = "0.4"
