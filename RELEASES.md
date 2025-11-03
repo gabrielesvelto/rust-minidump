@@ -1,7 +1,7 @@
 # Unreleased
 
-Nothing Yet!
-
+* Various improvements during stack walking and when processing malformed
+  minidumps.
 
 # Version 0.26.0 (2025-06-20)
 
