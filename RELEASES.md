@@ -1,7 +1,10 @@
 # Unreleased
 
-Nothing Yet!
-
+* Improve bit-flip detection reducing the number of false positives
+* CFI unwinding on ARM64 has been improved
+* Add the "process_uptime" value to the JSON and human output formats
+* Parsing procfs files has been made more robust
+* no-defaults-features build is working again
 
 # Version 0.26.1 (2025-11-03)
 
