@@ -1,5 +1,10 @@
 # Unreleased
 
+Nothing Yet!
+
+
+# Version 0.27.0 (2026-08-11)
+
 * Improve bit-flip detection reducing the number of false positives
 * CFI unwinding on ARM64 has been improved
 * Add the "process_uptime" value to the JSON and human output formats
